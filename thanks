@@ -1,0 +1,480 @@
+
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+ 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="generator" content="Mobirise v4.9.3, mobirise.com">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <script src="/cdn-cgi/apps/head/H6VhWgwDJK77mn1cfdFKtpJ7c8s.js"></script><link rel="shortcut icon" href="/assets/images/logo-128x47-1.png" type="image/x-icon">
+    <meta name="title" content="ytsubme.com" code="0f3potgc"> 
+       <meta name="keywords" content="mrniamster,ytsubme.com,sub2unlock,subscribe to unlock link, social locker unlocker link,boost.ink">
+    <meta name="description" content="Share your videos with friends, family, and the world.">
+    <meta property="og:title" content="Share your videos with friends, family, and the world">
+     <meta property="og:type" content="website">
+    <meta property="og:description" content="Share your videos with friends, family, and the world">
+    <meta property="og:image" content="https://yt3.ggpht.com/ytc/AKedOLRfUHz-x3UTPWrPhiGAkWFDWmNY_WYGjE_FS-W4=s900-c-k-c0x00ffffff-no-rj">
+    <meta property="og:url" content="https://www.ytsubme.com/s2u/0f3potgc">
+    <title>Share your videos with friends, family, and the world-Share your videos with friends, family, and the world | YTSUBME.COM | Subscribe to Unlock/Download File</title>
+    <link as="style" rel="preload" onload="this.onload=null;this.rel='stylesheet'" href="/assets/theme/css/bootstrap5.css?v=62a2f11276a87" rel="stylesheet" >
+     <link as="style" rel="preload" onload="this.onload=null;this.rel='stylesheet'" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css" integrity="sha512-HK5fgLBL+xu6dm/Ii3z4xhlSUyZgTT9tuc/hSrtw6uzJOvgRr2a9jyxxT1ely+B+xFAmJKVSTbpM/CuL7qxO8w==" crossorigin="anonymous" />
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<!--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-61416072-2"></script> -->
+ 
+<script> 
+// window.dataLayer = window.dataLayer || [];
+// function gtag(){dataLayer.push(arguments);}
+// gtag("js", new Date());
+
+// gtag("config", "UA-61416072-2", { "optimize_id": "GTM-WM24J83"});
+</script>
+ <!-- Global site tag (gtag.js) - Google Analytics -->
+<style>
+.progress .progress-value {
+    width: 90%;
+    height: 90%;
+    border-radius: 50%;
+    background: #44484b;
+    font-size: 24px;
+    color: #fff;
+    line-height: 135px;
+    text-align: center;
+    position: absolute;
+    top: 5%;
+    left: 5%
+}
+
+.progress.blue .progress-bar {
+    border-color: #049dff
+}
+
+.tooltip {
+  display: block !important;
+  z-index: 10000;
+}
+
+.tooltip .tooltip-inner {
+  background: black;
+  color: white;
+  border-radius: 16px;
+  padding: 5px 10px 4px;
+}
+
+.tooltip .tooltip-arrow {
+  width: 0;
+  height: 0; 
+  border-style: solid;
+  position: absolute;
+  margin: 5px;
+  border-color: black;
+}
+
+
+.tooltip[x-placement^="right"] {
+  margin-left: 5px;
+}
+
+.tooltip[x-placement^="right"] .tooltip-arrow {
+  border-width: 5px 5px 5px 0;
+  border-left-color: transparent !important;
+  border-top-color: transparent !important;
+  border-bottom-color: transparent !important;
+  left: -5px;
+  top: calc(50% - 5px);
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.tooltip[aria-hidden='true'] {
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity .15s, visibility .15s;
+}
+
+.tooltip[aria-hidden='false'] {
+  visibility: visible;
+  opacity: 1;
+  transition: opacity .15s;
+}
+
+.btn-grad{background-image:linear-gradient(to right,#ee0979 0,#ff6a00 51%,#ee0979 100%)}.btn-grad{position:absolute;z-index:1;float:right;text-align:center;margin:0;padding:5px 15px;text-align:center;text-transform:uppercase;transition:.5s;background-size:200% auto;color:#fff;box-shadow:0 0 20px #eee;border-radius:10px;display:flex}.btn-grad:hover{background-position:right center;color:#fff;text-decoration:none}#btn-grad-img{width:auto;height:35px}#btn-grad-p{font-size:15px}@media only screen and (max-width:600px){#btn-grad-img{height:25px}#btn-grad-p{font-size:8.6px}} 
+
+[v-cloak] {
+            display: none;
+        }
+</style> 
+           
+   <!--<script  src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>           -->
+<script src="/assets/js/vue.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js" integrity="sha512-quHCp3WbBNkwLfYUMd+KwBAgpVukJu5MncuQaWXgCrfgcxCJAq/fo+oqrRKOj+UKEmyMCG3tb8RB63W+EmrOBg==" crossorigin="anonymous"></script>-->
+
+<!--<script async  src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>-->
+<!-- Hotjar Tracking Code for www.ytsubme.com -->
+</head>
+<body>
+<div id="app" style="display:none">
+	<section class="mbr-section article" id="msg-box3-o" data-rv-view="104" style="padding-top:0px;padding-bottom:0px">
+<div class="container-fluid" style="min-height: 100vh;">
+<div  class="row" lol="x" :style="'background-repeat: no-repeat;background-image: linear-gradient(185deg, black, rgb(0 0 0 / 55%)), url('+linkinfo.bg+');background-size: cover;background-position: center;min-height: 100vh;'"  >
+<div class="col-md-4" style="margin-top: 20px">
+<div class="adspace"  v-if="profile.prem=='0'">
+
+<!--<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+ <!--YTS 2021 -->
+ 
+<component is="script" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async></component>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6060878077012829"
+     data-ad-slot="3408263367"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <component is="script" src="ads.js" async></component>  
+    
+</div>
+</div>
+
+<div  class="col-md-4 text-center" >
+<form  style="display:none" id="form-1a" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_xclick">
+<input type="hidden" name="business" :value="profile.pay">
+<input type="hidden" name="lc" value="IN">
+<input type="hidden" name="item_name" value="YTSUBME DONATION">
+<input type="hidden" name="item_number" value="Donation via YTSUBME">
+<input type="hidden" name="amount" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="button_subtype" value="services">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="cn" value="Add special instructions to the seller:">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="rm" value="1">
+<input type="hidden" name="return" value="https://ytsubme.com/s2u/0f3potgc?payment=done">
+<input type="hidden" name="cancel_return" value="https://ytsubme.com/s2u/0f3potgc">
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_paynowCC_LG.gif:NonHosted">
+<input type="image" src="https://www.paypalobjects.com/en_GB/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<img alt="" loading="lazy" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+ <div class="cont1" style="margin: 20px auto;">
+        <div class="rounded">
+        
+<!-- prmote card-->
+
+<!--                    <div class="card ">        -->
+<!--<div class="card-header "><h1 class="font-italic font-weight-bold small">Advertisment</h1><a href="http://ytsubme.com/ccount/click.php?id=1" target="_blank"> <img class="img-fluid" src="/randim/randim.php"></a>-->
+<!-- <a class="small text-muted" href="/adv" target="_blank">Click here to Promote Your Channel Here</a></div>-->
+<!--           </div>-->
+
+
+<!-- promote card -->
+     <div class="container" :style="engine.cover">
+         
+     <div  class="donatebutton" :style="(engine.donation.profile) ? 'display:block' : 'display:none'">
+    <div  class="btn-grad text-decoration-none" style="transform: translate(-30px,50px);">  
+  <div>
+   <img id="btn-grad-img" @click="engine.donation.form =! engine.donation.form" style="border-radius: 50%;border: 0px solid;box-shadow: 1px 5px 5px grey;" src="https://i.ibb.co/xMrnPF7/DONATION-512.png" class="">
+  </div>
+  <div id="donatebox">
+      
+    <p @click="engine.donation.form =! engine.donation.form" id="btn-grad-p"  style="margin:0px;color:white;font-family:Montserrat;">Support <br>Creator</p>
+    <div v-show="engine.donation.form">
+                <div class="bmc" v-if="engine.donation.showbmc">
+    <a :href="linkinfo.integrations.bmc.bmclink" target='_blank'><img loading="lazy" src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=ytsubm&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff"></a>
+    </div>    
+            <hr>
+        <div class="paypal" v-if="engine.donation.showpaypal">
+    <div   id="inputamt">
+        <input class="form-control" id="amt" type="number" min="1" placeholder="Enter amount (USD)">
+        <input type="submit" value="DONATE" form="form-1a" class="btn bg-white border border-2 border-danger" >
+        </div>
+        </div> 
+    </div>
+
+    </div>
+</div>
+     </div>
+
+              <div class="col-md-12 text-xs-center" :style="engine.reveal ? 'background: url(https://cliply.co/wp-content/uploads/2019/08/371908020_CONFETTI_1920x1080.png);background-position: top;background-size: cover;background-repeat: no-repeat;' : ''">
+                     <img   loading="lazy"  id="userbot" v-tooltip="{
+    content: engine.tooltip.msg,
+    show: engine.tooltip.show,
+    placement: 'right',
+  }" 
+  style="border-radius: 50%;border: 3px solid;box-shadow: 1px 5px 5px grey;width:100px;height:100px" :src="engine.img" class="border-3 border-white userbot">
+                     
+                    <div class="container">
+                        <div class="textbox bg-white rounded-bottom  text-center w-auto m-xl-2 m-1 p-2 shadow-lg border-bottom border-5">
+                                                    <p v-if="profile.user !=='YTSUBME'" class="" style="font-size:15px;padding:0;margin:0" v-cloak>{{profile.displayname}}<i title="Verified By YTSUBME" class="fas fa-check-circle text-success" aria-hidden="true"></i></p>
+                    <p v-if="linkinfo.subcount"  class="glow font-weight-bold " style="font-size:32px" v-cloak><i class="fab fa-youtube text-danger"></i>{{linkinfo.subcount}}</p>
+<!-- YTFIX -->  <p v-cloak v-show="engine.title" class="" style="font-size:10px;padding:0;margin:0"><i class="fas fa-heart text-danger"></i> {{engine.title}}</p>
+                        </div>
+
+
+
+
+
+<div v-if="engine.embed && engine.linkbgvid" >
+  <iframe  class="img-fluid" :src="'//www.youtube.com/embed/'+engine.linkbgvid+'?autoplay=1&mute=0'"   name="youtube embed" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+</div>
+
+ <div  class="youtube-button">
+     
+<div  v-show="engine.stepbtns">                        <!------------------END TOP.PHP-------------------->
+<div v-for="(s2ubtn,index) in linkinfo.linkdata" role="button" class="d-flex align-items-center justify-content-between border border-white  rounded p-1 m-1 "  :class="s2ubtn.status ? 'd-none':'bg-dark'">
+<div>
+<img :src="s2ubtn.steptxt.img" loading="lazy" class="img-fluid" style="width:100px;margin:0 auto">
+</div>
+<div class="">
+<a v-cloak class="btn bg-white p-2" style="font-size: 10px; padding: 3px;margin:0 auto;" @click.prevent="verify(index)" :href="s2ubtn.stepurl" target="_blank" key="0" id="ytb"><i :class="s2ubtn.steptxt.btnclass" aria-hidden="true"></i> {{s2ubtn.steptxt.btntxt}}</a>
+</div>
+</div>
+</div>
+
+<div v-if="engine.watchbox.show" class="watchbox">
+<iframe  class="img-fluid" :src="'//www.youtube.com/embed/'+engine.watchbox.vid+'?autoplay=1&amp;mute=0'" name="youtube embed" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<div class="bg-primary">
+   <progress value="0" :max="engine.watchbox.timer" id="progressBar"></progress>
+   <p v-cloak style="padding:0;margin:0" class="small text-white">This step will be completed in {{engine.watchbox.timer}}s</p>
+</div>
+
+</div>
+
+
+<div class="email-newsletters" v-if="engine.emailbox.show" v-show="!engine.emailbox.completedStep">
+<div class="input-group">
+  <input type="text" v-model="engine.emailbox.sub_email" placeholder="Enter Your Email" class="form-control" style="min-height:0" >
+  <button :disabled="engine.emailbox.consent" class="btn btn-outline-secondary bg-white" @click="joinMailBox" type="button" style="margin: auto;">Join <i class="fab fa-mailchimp"></i></button>
+</div>
+<label class="small text-dark bg-white"><input type="checkbox" @click="engine.emailbox.consent=!engine.emailbox.consent"> I agree to receive emails from {{profile.user}}</label>
+</div>
+
+<div v-show="engine.locked" class="locked">
+<a href="#" class=" btn bg-white border border-5">
+<div v-if="linkinfo.linkdata" class="progress">
+  <div class="progress-bar progress-bar-striped bg-success progress-bar-animated" role="progressbar" :style="'width:'+((engine.rem.length/this.linkinfo.linkdata.length)*100)+'%'" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">{{(engine.rem.length/this.linkinfo.linkdata.length)*100}} %</div>
+</div>    
+<p class="text-dark small">Complete Steps to unlock</p>    
+<i class="fas fa-4x  fa-link animate__animated animate__wobble animate__repeat-3 animate__slower"></i>
+</a>
+</div>
+<div v-show="engine.loading" class="loading">
+<a href="#" class=" btn bg-primary px-5 bg-gradient">
+<p class="text-white small">Verifying...</p>    
+<i class="fas fa-4x  fa-fan fa-spin"></i>
+</a>
+</div>
+</div>
+<div v-show="engine.reveal" class="targetbox">
+    <div v-if="engine.type=='coupon'" class="coupon-reveal">
+        <p class="fw-bold fs-4 text-white">Enjoy your <u>special</u> offer below</p>
+        <img loading="lazy" :src="'https://textoverimage.moesif.com/image?image_url='+linkinfo.templates.coupon+'&y_align=middle&x_align=center'+'&text='+engine.target" width="354px" class="img-fluid p-2 border border-info rounded">
+    </div>
+    <div  v-if="engine.type=='link'"  class="secret-reveal">
+        <p class="fw-bold fs-4 text-white">A <u>huge</u> thanks for the support.</p>
+        <a  v-if="engine.reveal" :href="engine.target" target="_blank" class=" btn bg-success bg-gradient px-3 px-md-5 border-5 border">
+        
+        <p class="text-white small">Tap to reveal link</p>    
+        <i class="fas fa-4x text-white fa-gift animate__animated animate__tada animate__repeat-3 animate__slower"></i>
+        </a>
+
+    </div>
+    <div v-if="engine.type=='stream'" class="stream-reveal">
+        <iframe streamid="R9nvEFAvMBA" allowfullscreen="" frameborder="0" :src="'https://www.youtube.com/embed/'+getytid(engine.target)+'?controls=0&;showinfo=0&;rel=0&autoplay=1'" style="width: 100%; height: 500px; position: relative;"></iframe>
+    </div>
+<br>
+  <p class="fw-light fs-6 text-white">Show even more love by sharing this to your friends!</p>
+<div class="addthis_inline_share_toolbox_2hml"></div>  
+
+
+
+</div>
+<div v-show="engine.reviewbox" class="reviewbox mt-2">
+<a @click="showReview()" target="_blank" class="btn btn-sm bg-white shadow  rounded-pill bg-gradient text-decoration-none text-dark fw-normal" >Leave Review <i class="fas fa-comments" aria-hidden="true"></i></a>                 
+<div v-show="review" id="disqus_thread" data-hj-allow-iframe="" style="max-height: 650px; overflow: auto;"></div>
+</div>
+<div v-if="social && profile.user !=='YTSUBME'" class="social p-2">
+    <p v-cloak class="text-white text-white text-capitalize" style="padding:0;margin:0" >FOLLOW {{profile.user}}</p>
+        <a target="_blank" :href="social.fb" class="text-decoration-none text-white" style="padding:0">
+           <span class="fa-stack" style="vertical-align: top;">
+  <i class="far fa-circle fa-stack-2x"></i>
+  <i class="fab fa-facebook-f fa-stack-1x"></i>
+</span>
+        </a>
+        <a target="_blank" :href="social.tw" class="text-decoration-none text-white" style="padding:0"> 
+                   <span class="fa-stack" style="vertical-align: top;">
+  <i class="far fa-circle fa-stack-2x"></i>
+  <i class="fab fa-twitter fa-stack-1x"></i>
+</span>
+        </a>
+        <a :href="social.ig" target="_blank" class="text-decoration-none text-white" style="padding:0">
+                              <span class="fa-stack" style="vertical-align: top;">
+  <i class="far fa-circle fa-stack-2x"></i>
+  <i class="fab fa-instagram fa-stack-1x"></i>
+</span>
+            
+            </a>
+</div>
+                    
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+</div>
+<div class="col-md-4" style="margin-top: 20px">
+<div class="adspace"  v-if="profile.prem=='0'">
+
+<!--<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>-->
+ <!--YTS 2021 -->
+ 
+ <component is="script" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" async></component>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-6060878077012829"
+     data-ad-slot="3408263367"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+     <component is="script" src="ads.js" async></component>
+
+    
+</div>
+</div>
+
+<div v-if="profile.prem=='0'" id="promotion" class="small text-center" style="bottom: 0px; right: 0px; left: 0px;">
+<p style="margin:0;padding:0;font-size:12px"><a href="/register" target="_blank" class="text-white text-decoration-none" style="padding: 0px;">Powered By </a><a href="/" target="_blank" class="btn-sm btn-danger text-white text-decoration-none animate__animated animate__tada animate__repeat-3 animate__slower"><img loading="lazy" height="20px" width="20px" src="https://www.ytsubme.com/images/logo-min.png" style="transform: rotate(-60deg);"> YTSUBME.COM</a></p>
+<p class=""><a class="btn bg-white text-dark rounded-pill m-2" href="/register">CREATE LINK</a></p>
+</div>
+
+
+</div>
+
+<div v-if="profile.prem=='0'" class="d-md-block d-none opacity-75 fixed-bottom  text-white p-2 opacity text-center" style="left: unset;">
+<p style="margin: 0px; padding: 0px; font-size: 12px;">
+<a href="/register" target="_blank" class=" d-block text-white text-decoration-none" style="padding: 0px;">Powered By </a>
+<a href="/" target="_blank" class="btn-sm btn-danger text-white text-decoration-none animate__animated animate__tada animate__repeat-3 animate__slower">
+<img loading="lazy" height="20px" width="20px" src="https://www.ytsubme.com/images/logo-min.png" style="transform: rotate(-60deg);">YTSUBME.COM</a>
+</p> 
+<a href="/register" target="_blank" class=" d-block text-white text-decoration-none small" style="padding: 0px;">Create Subscribe to unlock link </a>
+<p>
+    <a href="https://bit.ly/3GdYVyj" class="btn btn-sm bg-white bg-gradient text-dark rounded-pill pr-2 pl-2 m-2">CREATE</a>
+    </p>
+</div>
+</div>
+</section>
+
+    </div>
+<script>
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+
+var disqus_config = function () {
+this.page.url = window.location.href;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = document.getElementsByTagName("meta").title.getAttribute('code'); // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://ytsubme-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+
+<!--<script async type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56c76aeca96ad692"></script>-->
+<!--<script id="catfishjs"   data-pid="6201507aac3c8" src="https://www.ytsubme.com/apps/feedback/prod.js"></script>-->
+
+<!--<script  async src="../../assets/adblock/adb.js"></script>-->
+<script>
+//   let intervalID  = setTimeout(()=>{ 
+
+// if(document.querySelector('.reviewbox iframe[sandbox*="allow"]') == null){
+//     clearInterval(intervalID)
+// }else{
+//     document.querySelector('.reviewbox iframe[sandbox*="allow"]').remove();
+// }
+// },2500);
+
+
+</script>
+<script>
+    // (function(h,o,t,j,a,r){
+    //     h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+    //     h._hjSettings={hjid:2148757,hjsv:6};
+    //     a=o.getElementsByTagName('head')[0];
+    //     r=o.createElement('script');r.async=1;
+    //     r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+    //     a.appendChild(r);
+    // })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+<!--<script async  src="https://unpkg.com/v-tooltip@2.0.2"></script>-->
+<!--<script async defer src="https://unpkg.com/emojisplosion/lib/global.js"></script>-->
+<script>
+
+    function loadJS(FILE_URL, async = true) {
+  let scriptEle = document.createElement("script");
+  scriptEle.setAttribute("src", FILE_URL);
+  scriptEle.setAttribute("type", "text/javascript");
+  scriptEle.setAttribute("async", async);
+  document.body.appendChild(scriptEle);
+  // success event 
+  scriptEle.addEventListener("load", () => {
+    console.log("File loaded")
+  });
+   // error event
+  scriptEle.addEventListener("error", (ev) => {
+    console.log("Error on loading file", ev);
+  });
+}
+
+loadJS("https://cdnjs.cloudflare.com/ajax/libs/axios/0.20.0/axios.min.js",false);
+loadJS("prod.js?v=62a2f11276da0",false);
+window.addEventListener("load", function(){
+
+    loadJS("//cdn.jsdelivr.net/npm/sweetalert2@10",true);
+    loadJS("https://unpkg.com/emojisplosion/lib/global.js",true);
+    loadJS("https://unpkg.com/v-tooltip@2.0.2",true);
+    //everything is fully loaded, don't use me if you can use DOMContentLoaded
+    loadJS("//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-56c76aeca96ad692", true);
+    loadJS("https://www.ytsubme.com/assets/adblock/adb.js",true);
+    loadJS("https://www.googletagmanager.com/gtag/js?id=UA-61416072-2",true);
+    (function(){
+        window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag("js", new Date());
+
+gtag("config", "UA-61416072-2", { "optimize_id": "GTM-WM24J83"});
+    })();
+    //incline scripts
+
+    
+    
+        (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:2148757,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    (function(){
+           let intervalID  = setTimeout(()=>{ 
+
+if(document.querySelector('.reviewbox iframe[sandbox*="allow"]') == null){
+    clearInterval(intervalID)
+}else{
+    document.querySelector('.reviewbox iframe[sandbox*="allow"]').remove();
+}
+},2500);
+
+
+    })();
+    
+    console.log("All scripts loaded");
+
+});
+</script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"71905a50c89f24ad","version":"2021.12.0","r":1,"token":"269d24543bca4fe3852dc32502ecb41c","si":100}' crossorigin="anonymous"></script>
+</body>
+</html> 

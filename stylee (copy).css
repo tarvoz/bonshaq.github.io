@@ -1,0 +1,343 @@
+:root {
+  --main: #766884;
+  --WebsiteColor: #373636;
+  /*--AppsColor: #373636;*/
+  --AppsColor: #00000091;
+  --Color: #373636;
+}
+
+.page {
+    /*background: var(--main);*/
+    
+    /*background: linear-gradient(-45deg, #766884, #b19dc5, #91cadb, #4e8595);*/
+    background: linear-gradient(-45deg, #766884, #3ea9b5, #627f9c, #3b5c5c);
+    background-size: 400% 400%;
+    animation: gradient 1s ease-out infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+.p_card {
+    text-align: center;
+    padding: 17px !important;
+    max-width: 525px;
+    margin-top: -36px;
+}
+
+.card_small {
+    text-align: justify;
+    margin: -39px 64px 0px 0px;
+}
+
+.hello_text {
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: 700;
+    justify-content: flex-start !important;
+    text-align: left;
+    color: #fff;
+}
+
+
+.my_info_text {
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 700;
+    justify-content: flex-end !important;
+    margin-bottom: 15px !important;
+    text-align: right;
+}
+
+.butoon_active {
+    width: 50%;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    font-size: 14px;
+    font-family: system-ui;
+    margin-right: 3px;
+    font-weight: 600;
+    background: #f2f4f6;
+    color: #000000;
+}
+
+
+.em_text {
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: 700;
+    justify-content: flex-end !important;
+    margin-bottom: 15px !important;
+    text-align: right;
+    margin-top: 14px;
+}
+
+.email_text {
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: 400;
+    justify-content: flex-end !important;
+    margin-bottom: 15px !important;
+    text-align: right;
+    margin-top: -11px;
+    color: #888;
+}
+
+.paypal_button {
+    background: #1000ff21;
+    width: -webkit-fill-available;
+    border: none;
+    border-radius: 8px;
+    color: #0500ff;
+    height: 40px;
+    font-weight: 800;
+    font-family: system-ui;
+    margin: -5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.redeem_code {
+    background: #f2f4f6;
+    width: -webkit-fill-available;
+    border: none;
+    border-radius: 8px;
+    color: #000000;
+    height: 40px;
+    font-weight: 800;
+    font-family: system-ui;
+    margin: -5px;
+    margin-top: -11px;
+    margin-bottom: 20px;
+}
+
+
+.paypal_icon {
+    width: 21px;
+    margin-bottom: 3px;
+    margin-right: 7px;
+}
+
+.logout {
+    font-family: system-ui;
+    font-weight: bold;
+    color: #FD0D1B;
+}
+
+.butoon_paid {
+    /*width: 50%;*/
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    font-size: 14px;
+    font-family: system-ui;
+    font-weight: 600;
+    margin-left: 3px;
+    background: #f2f4f6;
+    color: #000000;
+}
+
+.butoon_paid_vip {
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    font-size: 14px;
+    font-family: system-ui;
+    font-weight: 600;
+    margin-left: 3px;
+    background: #f2f4f6;
+    color: #000000;
+}
+
+.device_limt {
+    font-family: system-ui;
+    font-size: 12px;
+    font-weight: 700;
+    justify-content: flex-start;
+    margin-bottom: 15px !important;
+    text-align: right;
+    color: #ababab;
+    margin-top: -30px;
+}
+
+
+.my_devices_text {
+    font-family: system-ui;
+    font-size: 18px;
+    font-weight: 700;
+    justify-content: flex-end !important;
+    margin-bottom: 15px !important;
+    text-align: right;
+}
+
+.mainTxt span{
+    width: auto;
+    font-size: 11px;
+    font-weight: 400;
+    color: #909090;
+}
+
+
+.btnB47 {
+    text-align: left;
+    margin-right: 15px;
+    font-family: system-ui;
+    font-size: 14px;
+    margin-top: -47px;
+}
+
+.tab_button {
+    border-radius: 27px;
+    width: auto;
+    background: #ffffff24;
+    color: #f9f9f994;
+    padding: 3px 15px 3px 15px;
+    border: none;
+    font-size: 14px;
+    font-weight: 600;
+    margin-left: 0px;
+    margin-right: 9px;
+}
+.active {
+    background: #ffffff;
+    color: var(--Color);
+}
+
+.nav_div {
+    background: var(--AppsColor);
+    border-radius: 8px;
+    padding: 14px;
+    direction: rtl;
+    margin: -4px;
+    margin-top: 13px;
+    text-align: left;
+    direction: ltr;
+}
+
+.footer_div {
+    background: var(--AppsColor);
+    border-radius: 8px;
+    padding: 14px;
+    direction: rtl;
+    margin: -4px;
+    margin-top: 13px;
+    text-align: center;
+}
+
+.add_device {
+    background: #0779ff21;
+    width: -webkit-fill-available;
+    border: none;
+    border-radius: 8px;
+    color: #0779FF;
+    height: 40px;
+    font-weight: 500;
+    font-family: system-ui;
+    margin: -5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+.delete_button {
+    border-radius: 27px;
+    width: auto;
+    background: #ffffff;
+    color: var(--Color);
+    padding: 3px 10px 3px 10px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.pending_button {
+    border-radius: 27px;
+    width: auto;
+    background: #ffb10033;
+    color: #ff8f00;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: none;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.device_id {
+    width: auto;
+    font-size: 10px;
+    font-weight: 400;
+    color: #909090;
+    margin-top: -17px;
+    margin-bottom: 0px;
+}
+
+
+.mainTxt{
+    width: auto;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 6px;
+    margin-right: 10px;
+    color: #fff;
+}
+
+.social_icon {
+    padding: 5px;
+}
+
+.icon0 {
+  width: 70px;
+    height: 70px;
+    margin-left: -14px;
+    border-radius: 12px;
+    padding: initial;
+    margin-right: 0px;
+float:left;
+  
+position:relative; 
+  
+width:128px;
+  
+height:128px; 
+  
+padding:10px;
+
+}
+.icon0 span,.icon0 a{ 
+  
+display:block; 
+  
+width:148px;
+  
+height:148px;
+  
+position:absolute; left:0; top:0; background:url(http://pro.0store.co/Sub/css/iconzhezhao.png) center center no-repeat; background-size:100%;}
+.icon0 img{ 
+  
+width:128px; height:128px;
+          
+}
+
+   
+
+.fourList {
+    background: var(--AppsColor);
+    border-radius: 8px;
+    padding: 14px;
+    direction: rtl;
+    margin: -4px;
+    margin-top: 13px;
+}
